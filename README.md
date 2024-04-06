@@ -1,7 +1,7 @@
 <h1 align='center'>NLW Unite</h1>
 
 <p align='center'>
-  <img src='https://github.com/JonathanGOSantos/pass-in-web/blob/bfd32a1dab3db1c2d2d6846fa86d1543151315d7/public/banner.png' alt='NLW Unite' />
+  <img src='https://github.com/JonathanGOSantos/pass-in-web/blob/151bdabcd0be910b84622f9b732d439f42510c41/public/banner.png' />
 </p>
 
 <br>
